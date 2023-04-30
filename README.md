@@ -7,12 +7,12 @@ GenreGenius-MovieRecommender is a user-friendly movie recommendation system that
 
 
 ## Demo
-[GenreGenius-MovieRecommender](https://mo-inkhan.github.io/LorenzAttractorVisualizer/)
+[GenreGenius-MovieRecommender](https://mo-inkhan-genregenius-movie-recommender-app-jc7fhj.streamlit.app/)
 
 ## Usage
-![Lorenz Attractor Screenshot](./sample/sample-1.png)
+![GenreGenius-Movie-Recommender Screenshot](./sample/sample-1.png)
 
-![Lorenz Attractor Screenshot](./sample/sample-2.png)
+![GenreGenius-Movie-Recommender Screenshot](./sample/sample-2.png)
 
 
 ## Contributing
@@ -21,5 +21,5 @@ Thanks!
 
 
 ## License
-**Lorenz Attractor Visualizer** is released under the MIT License.
+**GenreGenius-Movie-Recommender** is released under the MIT License.
 Check out the full license [here](LICENSE).
